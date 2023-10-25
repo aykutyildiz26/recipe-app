@@ -21,6 +21,8 @@ function filterFunction(){
   }
 }
 
+/*
 function showDropDown(){
     document.querySelector("#dropDown").classList.toggle("show");
 }
+*/
