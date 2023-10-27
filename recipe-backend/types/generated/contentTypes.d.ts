@@ -683,6 +683,7 @@ export interface ApiIngredientIngredient extends Schema.CollectionType {
     singularName: 'ingredient';
     pluralName: 'ingredients';
     displayName: 'Ingredient';
+    description: '';
   };
   options: {
     draftAndPublish: true;

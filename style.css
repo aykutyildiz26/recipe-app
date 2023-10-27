@@ -51,6 +51,8 @@ body{
     overflow: auto;
     border: 1px solid #ddd;
     z-index: 1;
+
+    cursor: pointer;
 }
 
 .dropDown-content a{
