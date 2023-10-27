@@ -81,6 +81,8 @@ body{
 .instruction-title{
     line-height: 32px;
     margin-top: 32px;
+
+    white-space: pre-wrap;
 }
 
 .ingredient-list,
